@@ -1,3 +1,8 @@
+This project comprises two stages: initially, traditional programming is used to detect Deauthentication and Evil Twin attacks, followed by employing machine learning in the second stage for enhanced attack detection
+
+### Simulation
+For simulating attacks, the project utilizes Airmon-ng for Deauthentication attacks and Airgeddon for Evil Twin attacks.
+
 ### Deauthentication Attack
 ![deauthentication](./Screenshots/Deauth-1.png "Deauthentication Attack Detected")
 ![deauthentication](./Screenshots/Deauth-2.png "Deauthentication Attack Detected")
